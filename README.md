@@ -1,2 +1,2 @@
-# Time_Series_Forecast_LSTM_Model
-Bidirectional LSTM model to forecast a synthetic time series. Adaptive learning rate and Lambda layers to improve training stage
+# Time_Series_Forecast_Tools
+Bidirectional LSTM model to forecast a synthetic time series and a real time series of temperatures. Adaptive learning rate and Lambda layers to improve training stage
